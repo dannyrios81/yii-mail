@@ -1,5 +1,5 @@
 {
-    "name": "macagua/yii-mail",
+    "name": "dannyrios81/yii-mail",
     "description": "Fork of a Mail extension for Yii that wraps Swift Mailer. Uses Yii 1.1.x.",
     "keywords": ["mail", "wraps", "swiftmailer", "Swift Mailer", "extension", "yii-extension", "yii-1.x"],
     "type": "yii-extension",
@@ -10,7 +10,7 @@
     "license": "BSD-3-Clause",
     "homepage": "http://www.yiiframework.com/extension/mail/",
     "support": {
-        "email": "thyseus@gmail.com",
+        "email": "dannyrios81@gmail.com",
         "issues": "https://code.google.com/p/yii-mail/issues/list",
         "download": "https://code.google.com/p/yii-mail/downloads/list",
         "source": "https://github.com/macagua/yii-mail"
